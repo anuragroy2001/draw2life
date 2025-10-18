@@ -6,18 +6,25 @@
 
 **An AI-powered educational platform that brings imagination to life**
 
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://draw2life.vercel.app)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
-[![Gemini AI](https://img.shields.io/badge/Gemini-AI-orange)](https://ai.google.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
+[![Gemini AI](https://img.shields.io/badge/Gemini-AI-orange?logo=google)](https://ai.google.dev/)
 
-[Live Demo](#) • [Documentation](#setup-instructions) • [Report Bug](https://github.com/anuragroy2001/draw2life/issues) • [Request Feature](https://github.com/anuragroy2001/draw2life/issues)
+[🚀 Live Demo](https://draw2life.vercel.app) • [Documentation](#-quick-start) • [Report Bug](https://github.com/anuragroy2001/draw2life/issues) • [Request Feature](https://github.com/anuragroy2001/draw2life/issues)
 
 </div>
 
 ---
 
 ## 📸 Preview
+
+<div align="center">
+
+### ✨ [Try the Live Demo](https://draw2life.vercel.app) ✨
+
+</div>
 
 > **Add your app banner/hero image here**
 > 
@@ -203,16 +210,28 @@ Collaborative drawing challenges where players compete and vote on creative inte
 
 ## 🚦 Quick Start
 
-Get Draw2Life up and running in under 5 minutes!
+### 🌐 Try It Now!
 
-### Prerequisites
+**Don't want to install anything?** Try the live demo right away:
+
+👉 **[draw2life.vercel.app](https://draw2life.vercel.app)** 👈
+
+Just visit the link and start drawing! No setup required.
+
+---
+
+### 💻 Local Development Setup
+
+Want to run it locally or contribute? Get Draw2Life up and running in under 5 minutes!
+
+#### Prerequisites
 
 - **Node.js** 18.0 or higher
 - **npm** or **yarn** package manager
 - A **Google account** (for Gemini API)
 - A **fal.ai account** (for video generation)
 
-### Installation
+#### Installation Steps
 
 **1️⃣ Clone the repository**
 
