@@ -6,22 +6,39 @@
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "setup": "node setup-env.js"
   },
   "dependencies": {
+    "@fal-ai/client": "latest",
+    "@google/generative-ai": "^0.24.1",
+    "@react-three/drei": "^10.7.6",
+    "@react-three/fiber": "^9.4.0",
+    "@types/three": "^0.180.0",
+    "clsx": "^2.1.1",
+    "convex": "^1.28.0",
+    "dotenv": "^17.2.3",
+    "framer-motion": "^12.23.24",
+    "gsap": "^3.13.0",
+    "konva": "^10.0.2",
+    "lucide-react": "^0.546.0",
+    "next": "15.5.6",
+    "opencv.js": "^1.2.1",
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "next": "15.5.6"
+    "react-konva": "^19.0.10",
+    "tailwind-merge": "^3.3.1",
+    "three": "^0.180.0"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "15.5.6",
-    "@eslint/eslintrc": "^3"
+    "tailwindcss": "^4",
+    "typescript": "^5"
   }
 }

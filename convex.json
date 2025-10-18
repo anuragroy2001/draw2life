@@ -1,0 +1,6 @@
+{
+  "generateCommonJSApi": true,
+  "node": {
+    "18": true
+  }
+}
