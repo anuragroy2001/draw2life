@@ -77,9 +77,6 @@ Perfect for:
 ### 🎨 Professional Drawing Canvas
 Create stunning artwork with a full-featured drawing interface powered by React Konva.
 
-![Drawing Canvas](./docs/images/drawing-canvas.png)
-*Intuitive tools for creative expression*
-
 **Features:**
 - ✏️ Multiple drawing tools: pen, eraser, shapes, text, selection, move
 - 🎨 Rich color palette with 20+ colors + custom color picker
@@ -93,9 +90,6 @@ Create stunning artwork with a full-featured drawing interface powered by React 
 ### 🤖 AI-Powered Understanding
 Our Gemini AI analyzes drawings and generates educational insights that help children learn while they create.
 
-![AI Analysis](./docs/images/ai-analysis.png)
-*Intelligent scene detection and educational narration*
-
 **Capabilities:**
 - 🔍 Structured scene analysis with smart object detection
 - 📖 Age-appropriate educational narration generation
@@ -105,20 +99,10 @@ Our Gemini AI analyzes drawings and generates educational insights that help chi
 ---
 
 ### ✨ Dynamic Animations
-Watch drawings come to life with professional-grade animations in both 2D and 3D.
-
-<div align="center">
-
-| 2D Animations | 3D Playground |
-|:------------:|:-------------:|
-| ![2D Animation](./docs/images/2d-animation.png) | ![3D View](./docs/images/3d-view.png) |
-| *GSAP-powered smooth animations* | *Interactive Three.js 3D scenes* |
-
-</div>
+Watch drawings come to life with professional-grade 2D animations.
 
 **Animation Features:**
 - 🎭 GSAP-powered 2D animations: bounce, float, rotate, scale, move, fade
-- 🌍 Immersive Three.js 3D playground with interactive objects
 - 🎮 Full playback controls: play, pause, stop, speed adjustment
 - ⏱️ Timeline-based animation sequences
 - 🔊 Audio controls for educational narration
@@ -127,9 +111,6 @@ Watch drawings come to life with professional-grade animations in both 2D and 3D
 
 ### 🎥 Video Export
 Transform drawings into shareable MP4 videos powered by fal.ai's cutting-edge AI technology.
-
-![Video Export](./docs/images/video-export.png)
-*Export and share animated creations*
 
 **Export Features:**
 - 📹 AI-generated animated MP4 videos
@@ -142,9 +123,6 @@ Transform drawings into shareable MP4 videos powered by fal.ai's cutting-edge AI
 
 ### 🎮 Multiplayer Drawing Game
 Collaborative drawing challenges where players compete and vote on creative interpretations.
-
-![Multiplayer Game](./docs/images/multiplayer-game.png)
-*Fun, social creative challenges*
 
 **Game Features:**
 - 👥 Real-time multiplayer sessions
@@ -178,39 +156,6 @@ Collaborative drawing challenges where players compete and vote on creative inte
 [![OpenCV.js](https://img.shields.io/badge/OpenCV-js-5C3EE8?style=for-the-badge&logo=opencv)](https://docs.opencv.org/4.x/d5/d10/tutorial_js_root.html)
 
 </div>
-
----
-
-## 📱 Screenshots
-
-<details>
-<summary><strong>Click to see more screenshots</strong></summary>
-
-### Landing Page
-![Landing Page](./docs/images/landing-page.png)
-*Welcoming home screen with clear call-to-action*
-
-### Layer Management
-![Layer Panel](./docs/images/layer-panel.png)
-*Professional layer organization system*
-
-### Color Picker
-![Color Picker](./docs/images/color-picker.png)
-*Extensive color options with custom picker*
-
-### Animation Controls
-![Animation Controls](./docs/images/animation-controls.png)
-*Intuitive playback and speed controls*
-
-### Game Lobby
-![Game Lobby](./docs/images/game-lobby.png)
-*Multiplayer waiting room*
-
-### Voting Screen
-![Voting Screen](./docs/images/voting-screen.png)
-*Vote on favorite drawings*
-
-</details>
 
 ---
 
@@ -342,39 +287,17 @@ npm run dev
 - Use layers to organize complex drawings
 - Don't worry about perfection - the AI understands kids' drawings!
 
-![Drawing Tutorial](./docs/images/tutorial-draw.png)
-
 **Step 2: Let AI Analyze** 🤖
 - Click **"Understand My Drawing"** button
 - Wait 5-10 seconds for AI magic
 - Read the educational narration
 - Discover what the AI learned from your art!
 
-![Analysis Tutorial](./docs/images/tutorial-analyze.png)
-
 **Step 3: Animate Your Creation** ✨
 - Hit the **Play** button to see animations
 - Adjust speed and view the timeline
 - Try different animation styles
 - Objects will bounce, float, and come alive!
-
-![Animation Tutorial](./docs/images/tutorial-animate.png)
-
-**Step 4: Explore in 3D** 🌍
-- Click **"3D View"** for immersive experience
-- Drag to rotate the 3D scene
-- Watch objects float in 3D space
-- Zoom in and out to explore details
-
-![3D Tutorial](./docs/images/tutorial-3d.png)
-
-**Step 5: Export & Share** 📤
-- Click **"Export Video"**
-- Wait 20-30 seconds for AI video generation
-- Preview your animated video
-- Download and share with friends!
-
-![Export Tutorial](./docs/images/tutorial-export.png)
 
 ### Playing the Multiplayer Game 🎮
 
@@ -485,7 +408,7 @@ draw2life/
 - [ ] Shared project workspaces
 - [ ] Live cursor tracking
 
-### 📅 Phase 5: Voice & Audio (Coming Soon)
+### 📅 Phase 5: Voice & Audio (Future)
 - [ ] Gemini Live API integration
 - [ ] Voice tutoring and feedback
 - [ ] Audio narration for animations
