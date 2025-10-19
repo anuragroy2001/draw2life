@@ -26,10 +26,6 @@
 
 </div>
 
-> **Add your app banner/hero image here**
-> 
-> *Screenshot showing the main interface with a child's drawing being animated*
-
 ![Draw2Life App Preview](./docs/images/app-preview.png)
 
 ---
