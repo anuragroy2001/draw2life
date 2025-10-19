@@ -12,7 +12,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Gemini AI](https://img.shields.io/badge/Gemini-AI-orange?logo=google)](https://ai.google.dev/)
 
-[🚀 Live Demo](https://draw2life.vercel.app) • [Documentation](#-quick-start) • [Report Bug](https://github.com/anuragroy2001/draw2life/issues) • [Request Feature](https://github.com/anuragroy2001/draw2life/issues)
+[🚀 Live Demo](https://draw2life.vercel.app) • [📺 Watch Video](https://www.youtube.com/watch?v=e3406-d4YIQ) • [📖 Documentation](#-quick-start) • [🐛 Report Bug](https://github.com/anuragroy2001/draw2life/issues)
 
 </div>
 
@@ -58,11 +58,17 @@ Perfect for:
 
 ## 🎬 Demo Video
 
-> **Add a demo video/GIF here**
-> 
-> *Short video showing: Draw → AI Analysis → Animation → 3D View → Video Export*
+<div align="center">
 
-![Demo Video](./docs/images/demo-video.gif)
+### 📺 Watch Draw2Life in Action
+
+[![Draw2Life Demo](https://img.youtube.com/vi/e3406-d4YIQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=e3406-d4YIQ)
+
+**[▶️ Watch on YouTube](https://www.youtube.com/watch?v=e3406-d4YIQ)**
+
+*See the complete workflow: Draw → AI Analysis → Animation → 3D View → Video Export*
+
+</div>
 
 ---
 
